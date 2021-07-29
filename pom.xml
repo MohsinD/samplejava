@@ -19,8 +19,8 @@
     <finalName>GSASampleJava</finalName>
     <plugins>
       <plugin>
-        <groupID>org.apache.maven.plugins</groupID>
-        <artifactID>maven-war-plugin</artifactID>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-war-plugin</artifactId>
         <version>3.3.1</version>
       </plugin>
      </plugins>
