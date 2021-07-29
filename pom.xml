@@ -17,5 +17,12 @@
   </dependencies>
   <build>
     <finalName>GSASampleJava</finalName>
+    <plugins>
+      <plugin>
+        <groupID>org.apache.maven.plugins</groupID>
+        <artifactID>maven-war-plugin</artifactID>
+        <version>3.3.1</version>
+      </plugin>
+     </plugins>
   </build>
 </project>
